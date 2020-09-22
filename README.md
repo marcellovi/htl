@@ -20,20 +20,20 @@ Use the package or clone path
 
 ## Configuration & Debug (.env ) 
 
-APP_DEBUG=true : To use the debug keep as true
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=htlapi
-DB_USERNAME=root
-DB_PASSWORD=
+- APP_DEBUG=true : To use the debug keep as true
+- DB_CONNECTION=mysql
+- DB_HOST=127.0.0.1
+- DB_PORT=3306
+- DB_DATABASE=htlapi
+- DB_USERNAME=root
+- DB_PASSWORD=
 
 ### REST & Endpoints
 
 To be able to listen to the REST from localhost you must change the port;
 
-Artisan Server : php artisan serve --port 8001
-Localhost : http://localhost/HTL/htlsys/public/
+- Artisan Server : php artisan serve --port 8001
+- Localhost : http://localhost/HTL/htlsys/public/
 
 
 ## Observations
