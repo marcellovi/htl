@@ -38,6 +38,6 @@ To be able to listen to the REST from localhost you must change the port;
 
 ## Observations
 
-Take a look at the Wiki Page to see images and details of the application.
+Take a look at the Wiki (https://github.com/marcellovi/htl/wiki) Page to see images and details of the application.
 
 
